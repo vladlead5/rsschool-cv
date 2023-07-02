@@ -2,7 +2,7 @@
 ## __Junior Frontend Developer__
 ---
 ### __Contact information__:
-__Phone:__ 8 (800) 555 35 35
+__Phone:__ 8 (800) 555 45 34
 
 __Email:__ vlad.prog55@gmail.com
 
