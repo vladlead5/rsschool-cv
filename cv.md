@@ -21,6 +21,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 * JavaScript
 * Git
 * Python
+* SQL
 
 ---
 
